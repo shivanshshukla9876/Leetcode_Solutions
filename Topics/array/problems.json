@@ -4,6 +4,27 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-17T04:37:50.297Z",
-  "problems": []
+  "updatedAt": "2026-09-17T04:39:30.149Z",
+  "problems": [
+    {
+      "frontendId": "1011",
+      "title": "Capacity To Ship Packages Within D Days",
+      "slug": "capacity-to-ship-packages-within-d-days",
+      "problemName": "1011-capacity-to-ship-packages-within-d-days",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+      "folderPath": "1011-capacity-to-ship-packages-within-d-days/",
+      "readmePath": "1011-capacity-to-ship-packages-within-d-days/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1011-capacity-to-ship-packages-within-d-days.java",
+          "path": "1011-capacity-to-ship-packages-within-d-days/1011-capacity-to-ship-packages-within-d-days.java",
+          "sha": "3de56f8c442a3781429c7be222773f268b26f0b7",
+          "lastSyncedAt": "2026-09-17T04:39:30.149Z"
+        }
+      ]
+    }
+  ]
 }
