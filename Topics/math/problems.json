@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-17T04:41:15.742Z",
+  "updatedAt": "2026-09-17T04:41:24.599Z",
   "problems": [
     {
       "frontendId": "7",
@@ -143,6 +143,26 @@
           "path": "1492-the-kth-factor-of-n/1492-the-kth-factor-of-n.java",
           "sha": "5c580fdd19979996716dbc2906a687c8b9a1057b",
           "lastSyncedAt": "2026-09-17T04:40:37.046Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1822",
+      "title": "Sign of the Product of an Array",
+      "slug": "sign-of-the-product-of-an-array",
+      "problemName": "1822-sign-of-the-product-of-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sign-of-the-product-of-an-array/",
+      "folderPath": "1822-sign-of-the-product-of-an-array/",
+      "readmePath": "1822-sign-of-the-product-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1822-sign-of-the-product-of-an-array.java",
+          "path": "1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.java",
+          "sha": "6f79fb7b6d798ba95698f1e8e5a07e1847ada970",
+          "lastSyncedAt": "2026-09-17T04:41:24.599Z"
         }
       ]
     }
