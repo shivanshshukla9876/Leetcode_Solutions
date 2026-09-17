@@ -63,3 +63,15 @@ Contains topicwise list of solved problems.
 | [Stack](Topics/stack/) | 0 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0875-koko-eating-bananas](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0875-koko-eating-bananas](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+<!---LeetCode Topics End-->
