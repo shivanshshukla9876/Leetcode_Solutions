@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-17T04:40:56.078Z",
+  "updatedAt": "2026-09-17T04:41:06.966Z",
   "problems": [
     {
       "frontendId": "7",
@@ -43,6 +43,26 @@
           "path": "0069-sqrtx/0069-sqrtx.java",
           "sha": "51cadbaf80bc6cd4b464db1c9ce4a79d0727ca2f",
           "lastSyncedAt": "2026-09-17T04:40:18.892Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "326",
+      "title": "Power of Three",
+      "slug": "power-of-three",
+      "problemName": "0326-power-of-three",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-three/",
+      "folderPath": "0326-power-of-three/",
+      "readmePath": "0326-power-of-three/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0326-power-of-three.java",
+          "path": "0326-power-of-three/0326-power-of-three.java",
+          "sha": "3c0ebf5f2ea3019cd1e5efab4b6a837c930d9e56",
+          "lastSyncedAt": "2026-09-17T04:41:06.966Z"
         }
       ]
     },
