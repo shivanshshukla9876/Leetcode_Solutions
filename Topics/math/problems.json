@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-17T04:40:30.834Z",
+  "updatedAt": "2026-09-17T04:40:37.046Z",
   "problems": [
     {
       "frontendId": "7",
@@ -43,6 +43,26 @@
           "path": "0069-sqrtx/0069-sqrtx.java",
           "sha": "51cadbaf80bc6cd4b464db1c9ce4a79d0727ca2f",
           "lastSyncedAt": "2026-09-17T04:40:18.892Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1492",
+      "title": "The kth Factor of n",
+      "slug": "the-kth-factor-of-n",
+      "problemName": "1492-the-kth-factor-of-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/the-kth-factor-of-n/",
+      "folderPath": "1492-the-kth-factor-of-n/",
+      "readmePath": "1492-the-kth-factor-of-n/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1492-the-kth-factor-of-n.java",
+          "path": "1492-the-kth-factor-of-n/1492-the-kth-factor-of-n.java",
+          "sha": "5c580fdd19979996716dbc2906a687c8b9a1057b",
+          "lastSyncedAt": "2026-09-17T04:40:37.046Z"
         }
       ]
     }
