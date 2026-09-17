@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-17T04:39:38.800Z",
+  "updatedAt": "2026-09-17T04:40:09.334Z",
   "problems": [
+    {
+      "frontendId": "74",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "problemName": "0074-search-a-2d-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "folderPath": "0074-search-a-2d-matrix/",
+      "readmePath": "0074-search-a-2d-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0074-search-a-2d-matrix.java",
+          "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.java",
+          "sha": "feb46b8e8efce0a8c3b698fdcb87270e201d7924",
+          "lastSyncedAt": "2026-09-17T04:40:09.334Z"
+        }
+      ]
+    },
     {
       "frontendId": "378",
       "title": "Kth Smallest Element in a Sorted Matrix",
