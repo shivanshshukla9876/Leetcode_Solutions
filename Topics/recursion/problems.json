@@ -4,8 +4,28 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-17T04:41:06.966Z",
+  "updatedAt": "2026-09-17T04:41:15.742Z",
   "problems": [
+    {
+      "frontendId": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "problemName": "0231-power-of-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+      "folderPath": "0231-power-of-two/",
+      "readmePath": "0231-power-of-two/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0231-power-of-two.java",
+          "path": "0231-power-of-two/0231-power-of-two.java",
+          "sha": "65b46af63e8e8c3fb81f89bd7add083f1bdc5234",
+          "lastSyncedAt": "2026-09-17T04:41:15.742Z"
+        }
+      ]
+    },
     {
       "frontendId": "326",
       "title": "Power of Three",
