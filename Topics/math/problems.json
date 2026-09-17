@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-17T04:40:50.558Z",
+  "updatedAt": "2026-09-17T04:40:56.078Z",
   "problems": [
     {
       "frontendId": "7",
@@ -43,6 +43,26 @@
           "path": "0069-sqrtx/0069-sqrtx.java",
           "sha": "51cadbaf80bc6cd4b464db1c9ce4a79d0727ca2f",
           "lastSyncedAt": "2026-09-17T04:40:18.892Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "342",
+      "title": "Power of Four",
+      "slug": "power-of-four",
+      "problemName": "0342-power-of-four",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
+      "folderPath": "0342-power-of-four/",
+      "readmePath": "0342-power-of-four/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0342-power-of-four.java",
+          "path": "0342-power-of-four/0342-power-of-four.java",
+          "sha": "3e077b9ddf9585e4bf18f72eeea86bb33c28a37b",
+          "lastSyncedAt": "2026-09-17T04:40:56.078Z"
         }
       ]
     },
