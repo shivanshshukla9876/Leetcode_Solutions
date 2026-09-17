@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "number-theory",
+    "name": "Number Theory"
+  },
+  "updatedAt": "2026-09-17T04:40:37.046Z",
+  "problems": [
+    {
+      "frontendId": "1492",
+      "title": "The kth Factor of n",
+      "slug": "the-kth-factor-of-n",
+      "problemName": "1492-the-kth-factor-of-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/the-kth-factor-of-n/",
+      "folderPath": "1492-the-kth-factor-of-n/",
+      "readmePath": "1492-the-kth-factor-of-n/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1492-the-kth-factor-of-n.java",
+          "path": "1492-the-kth-factor-of-n/1492-the-kth-factor-of-n.java",
+          "sha": "5c580fdd19979996716dbc2906a687c8b9a1057b",
+          "lastSyncedAt": "2026-09-17T04:40:37.046Z"
+        }
+      ]
+    }
+  ]
+}
