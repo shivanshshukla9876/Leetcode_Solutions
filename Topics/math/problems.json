@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-17T04:40:18.892Z",
+  "updatedAt": "2026-09-17T04:40:30.834Z",
   "problems": [
+    {
+      "frontendId": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "problemName": "0007-reverse-integer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+      "folderPath": "0007-reverse-integer/",
+      "readmePath": "0007-reverse-integer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0007-reverse-integer.java",
+          "path": "0007-reverse-integer/0007-reverse-integer.java",
+          "sha": "ec6b46ef218fb0ab0fd23364080191ed0ef9c990",
+          "lastSyncedAt": "2026-09-17T04:40:30.834Z"
+        }
+      ]
+    },
     {
       "frontendId": "69",
       "title": "Sqrt(x)",
