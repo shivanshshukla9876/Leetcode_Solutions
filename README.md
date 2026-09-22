@@ -69,6 +69,7 @@ Contains topicwise list of solved problems.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -88,6 +89,7 @@ Contains topicwise list of solved problems.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -97,4 +99,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
