@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 10 | 7 | 3 | 0 |
+| 11 | 8 | 3 | 0 |
 
 ## Activity
 
@@ -17,22 +17,22 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | 2026-08-26 | 7 |
 | 2026-09-17 | 1 |
-| 2026-09-22 | 2 |
+| 2026-09-22 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 7 | 70% |
-| Bit Manipulation | 3 | 30% |
-| Recursion | 3 | 30% |
-| Array | 2 | 20% |
-| Binary Search | 2 | 20% |
-| String | 2 | 20% |
-| Counting | 1 | 10% |
-| Floyd's Cycle Finding Algorithm | 1 | 10% |
-| Hash Table | 1 | 10% |
-| Newton's Method | 1 | 10% |
+| Math | 7 | 64% |
+| Bit Manipulation | 3 | 27% |
+| Recursion | 3 | 27% |
+| String | 3 | 27% |
+| Array | 2 | 18% |
+| Binary Search | 2 | 18% |
+| Hash Table | 2 | 18% |
+| Counting | 1 | 9% |
+| Floyd's Cycle Finding Algorithm | 1 | 9% |
+| Newton's Method | 1 | 9% |
 
 ## Topics
 
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 1 |
+| [Hash Table](Topics/hash-table/) | 2 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 0 |
@@ -62,9 +62,9 @@ Contains topicwise list of solved problems.
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 3 |
-| [Sorting](Topics/sorting/) | 2 |
+| [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 2 |
+| [String](Topics/string/) | 3 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
