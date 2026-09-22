@@ -5,49 +5,51 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 8 | 5 | 3 | 0 |
+| 10 | 7 | 3 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 1 days | 2 |
+| 1 days | 1 days | 3 |
 
 | Date | Problems |
 | --- | ---: |
 | 2026-08-26 | 7 |
 | 2026-09-17 | 1 |
+| 2026-09-22 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 7 | 88% |
-| Bit Manipulation | 3 | 38% |
-| Recursion | 3 | 38% |
-| Binary Search | 2 | 25% |
-| Array | 1 | 13% |
-| Floyd's Cycle Finding Algorithm | 1 | 13% |
-| Newton's Method | 1 | 13% |
-| Number Theory | 1 | 13% |
-| Pigeonhole Principle | 1 | 13% |
-| Prime Factorization | 1 | 13% |
+| Math | 7 | 70% |
+| Bit Manipulation | 3 | 30% |
+| Recursion | 3 | 30% |
+| Array | 2 | 20% |
+| Binary Search | 2 | 20% |
+| String | 2 | 20% |
+| Counting | 1 | 10% |
+| Floyd's Cycle Finding Algorithm | 1 | 10% |
+| Hash Table | 1 | 10% |
+| Newton's Method | 1 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 6 |
+| [Array](Topics/array/) | 7 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
+| [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 0 |
+| [Hash Table](Topics/hash-table/) | 1 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 0 |
@@ -57,10 +59,13 @@ Contains topicwise list of solved problems.
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prime Factorization](Topics/prime-factorization/) | 1 |
+| [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 3 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 0 |
+| [String](Topics/string/) | 2 |
+| [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
 
