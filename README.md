@@ -67,10 +67,10 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 3 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 4 |
+| [String](Topics/string/) | 5 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 2 |
+| [Two Pointers](Topics/two-pointers/) | 3 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
