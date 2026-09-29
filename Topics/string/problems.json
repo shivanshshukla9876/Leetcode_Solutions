@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-29T04:44:33.044Z",
+  "updatedAt": "2026-09-29T05:26:03.421Z",
   "problems": [
     {
       "frontendId": "14",
@@ -63,6 +63,26 @@
           "path": "0242-valid-anagram/0242-valid-anagram.java",
           "sha": "70564ded42a759a30446b6602733d56834887d9c",
           "lastSyncedAt": "2026-09-29T04:44:33.044Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "problemName": "0344-reverse-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
+      "folderPath": "0344-reverse-string/",
+      "readmePath": "0344-reverse-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0344-reverse-string.java",
+          "path": "0344-reverse-string/0344-reverse-string.java",
+          "sha": "f3eee84a23526a8e0cf74b4517f8984524bb234b",
+          "lastSyncedAt": "2026-09-29T05:26:03.421Z"
         }
       ]
     },
