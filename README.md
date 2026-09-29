@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 12 | 9 | 3 | 0 |
+| 13 | 9 | 4 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 1 days | 4 |
+| 1 days | 1 days | 5 |
 
 | Date | Problems |
 | --- | ---: |
@@ -19,21 +19,22 @@ Contains topicwise list of solved problems.
 | 2026-09-17 | 1 |
 | 2026-09-22 | 3 |
 | 2026-09-24 | 1 |
+| 2026-09-29 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 7 | 58% |
-| String | 4 | 33% |
-| Bit Manipulation | 3 | 25% |
-| Recursion | 3 | 25% |
-| Array | 2 | 17% |
-| Binary Search | 2 | 17% |
-| Hash Table | 2 | 17% |
-| Two Pointers | 2 | 17% |
+| Math | 8 | 62% |
+| String | 4 | 31% |
+| Bit Manipulation | 3 | 23% |
+| Recursion | 3 | 23% |
+| Two Pointers | 3 | 23% |
+| Array | 2 | 15% |
+| Binary Search | 2 | 15% |
+| Hash Table | 2 | 15% |
 | Boyer–Moore String-Search Algorithm | 1 | 8% |
-| Counting | 1 | 8% |
+| Brainteaser | 1 | 8% |
 
 ## Topics
 
@@ -45,6 +46,7 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
+| [Brainteaser](Topics/brainteaser/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
@@ -56,7 +58,7 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 8 |
+| [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
@@ -70,7 +72,7 @@ Contains topicwise list of solved problems.
 | [String](Topics/string/) | 5 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Two Pointers](Topics/two-pointers/) | 4 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
