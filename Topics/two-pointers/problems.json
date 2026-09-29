@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-29T05:28:30.090Z",
+  "updatedAt": "2026-09-29T05:45:39.059Z",
   "problems": [
     {
       "frontendId": "28",
@@ -63,6 +63,26 @@
           "path": "0344-reverse-string/0344-reverse-string.java",
           "sha": "f3eee84a23526a8e0cf74b4517f8984524bb234b",
           "lastSyncedAt": "2026-09-29T05:28:30.090Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2396",
+      "title": "Strictly Palindromic Number",
+      "slug": "strictly-palindromic-number",
+      "problemName": "2396-strictly-palindromic-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/strictly-palindromic-number/",
+      "folderPath": "2396-strictly-palindromic-number/",
+      "readmePath": "2396-strictly-palindromic-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2396-strictly-palindromic-number.java",
+          "path": "2396-strictly-palindromic-number/2396-strictly-palindromic-number.java",
+          "sha": "cc21e3649955fb02893991ff83f498239e3ac6e4",
+          "lastSyncedAt": "2026-09-29T05:45:39.059Z"
         }
       ]
     }
