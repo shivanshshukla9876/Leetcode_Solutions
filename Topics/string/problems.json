@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-01T04:48:50.754Z",
+  "updatedAt": "2026-10-01T05:47:03.733Z",
   "problems": [
     {
       "frontendId": "14",
@@ -23,6 +23,26 @@
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.java",
           "sha": "b0272b7f66d46536bbac2d32599f728f1bf58d2b",
           "lastSyncedAt": "2026-09-24T05:17:11.654Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "0020-valid-parentheses/",
+      "readmePath": "0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0020-valid-parentheses.java",
+          "path": "0020-valid-parentheses/0020-valid-parentheses.java",
+          "sha": "af4bf9c1074ac376503fdf69d538db33d4c3e49d",
+          "lastSyncedAt": "2026-10-01T05:47:03.733Z"
         }
       ]
     },
