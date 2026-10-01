@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 16 | 10 | 6 | 0 |
+| 17 | 10 | 7 | 0 |
 
 ## Activity
 
@@ -20,21 +20,21 @@ Contains topicwise list of solved problems.
 | 2026-09-22 | 3 |
 | 2026-09-24 | 1 |
 | 2026-09-29 | 1 |
-| 2026-10-01 | 3 |
+| 2026-10-01 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 10 | 63% |
-| String | 5 | 31% |
-| Recursion | 4 | 25% |
-| Array | 3 | 19% |
-| Bit Manipulation | 3 | 19% |
-| Hash Table | 3 | 19% |
-| Two Pointers | 3 | 19% |
-| Binary Search | 2 | 13% |
-| Sorting | 2 | 13% |
+| Math | 11 | 65% |
+| Recursion | 5 | 29% |
+| String | 5 | 29% |
+| Array | 3 | 18% |
+| Bit Manipulation | 3 | 18% |
+| Hash Table | 3 | 18% |
+| Two Pointers | 3 | 18% |
+| Binary Search | 2 | 12% |
+| Sorting | 2 | 12% |
 | Boyer–Moore String-Search Algorithm | 1 | 6% |
 
 ## Topics
@@ -60,7 +60,7 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 11 |
+| [Math](Topics/math/) | 12 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Prime Factorization](Topics/prime-factorization/) | 1 |
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
-| [Recursion](Topics/recursion/) | 4 |
+| [Recursion](Topics/recursion/) | 5 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 7 |
