@@ -47,6 +47,7 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Brainteaser](Topics/brainteaser/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
@@ -70,8 +71,8 @@ Contains topicwise list of solved problems.
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 4 |
 | [Sorting](Topics/sorting/) | 4 |
-| [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 6 |
+| [Stack](Topics/stack/) | 1 |
+| [String](Topics/string/) | 7 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
