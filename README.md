@@ -144,6 +144,7 @@ Contains topicwise list of solved problems.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0509-fibonacci-number](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
