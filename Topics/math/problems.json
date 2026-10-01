@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T05:45:39.059Z",
+  "updatedAt": "2026-10-01T05:03:43.631Z",
   "problems": [
     {
       "frontendId": "7",
@@ -123,6 +123,26 @@
           "path": "0507-perfect-number/0507-perfect-number.java",
           "sha": "a901a877c50fd191b1e4e2454346a2688c642d74",
           "lastSyncedAt": "2026-09-17T04:40:50.558Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "0509-fibonacci-number/",
+      "readmePath": "0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0509-fibonacci-number.java",
+          "path": "0509-fibonacci-number/0509-fibonacci-number.java",
+          "sha": "a65608a5091602d677f0cfbfe660d708e321ec0c",
+          "lastSyncedAt": "2026-10-01T05:03:43.631Z"
         }
       ]
     },
