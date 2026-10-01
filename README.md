@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 14 | 9 | 5 | 0 |
+| 15 | 10 | 5 | 0 |
 
 ## Activity
 
@@ -20,21 +20,21 @@ Contains topicwise list of solved problems.
 | 2026-09-22 | 3 |
 | 2026-09-24 | 1 |
 | 2026-09-29 | 1 |
-| 2026-10-01 | 1 |
+| 2026-10-01 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 8 | 57% |
-| String | 5 | 36% |
-| Array | 3 | 21% |
-| Bit Manipulation | 3 | 21% |
-| Hash Table | 3 | 21% |
-| Recursion | 3 | 21% |
-| Two Pointers | 3 | 21% |
-| Binary Search | 2 | 14% |
-| Sorting | 2 | 14% |
+| Math | 9 | 60% |
+| String | 5 | 33% |
+| Recursion | 4 | 27% |
+| Array | 3 | 20% |
+| Bit Manipulation | 3 | 20% |
+| Hash Table | 3 | 20% |
+| Two Pointers | 3 | 20% |
+| Binary Search | 2 | 13% |
+| Sorting | 2 | 13% |
 | Boyer–Moore String-Search Algorithm | 1 | 7% |
 
 ## Topics
@@ -51,7 +51,7 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 0 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 3 |
@@ -59,15 +59,16 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 9 |
+| [Math](Topics/math/) | 10 |
 | [Matrix](Topics/matrix/) | 2 |
+| [Memoization](Topics/memoization/) | 1 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prime Factorization](Topics/prime-factorization/) | 1 |
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
-| [Recursion](Topics/recursion/) | 3 |
+| [Recursion](Topics/recursion/) | 4 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 0 |
 | [String](Topics/string/) | 6 |
