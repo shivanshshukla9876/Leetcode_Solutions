@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 13 | 9 | 4 | 0 |
+| 14 | 9 | 5 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 1 days | 5 |
+| 1 days | 1 days | 6 |
 
 | Date | Problems |
 | --- | ---: |
@@ -20,27 +20,28 @@ Contains topicwise list of solved problems.
 | 2026-09-22 | 3 |
 | 2026-09-24 | 1 |
 | 2026-09-29 | 1 |
+| 2026-10-01 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 8 | 62% |
-| String | 4 | 31% |
-| Bit Manipulation | 3 | 23% |
-| Recursion | 3 | 23% |
-| Two Pointers | 3 | 23% |
-| Array | 2 | 15% |
-| Binary Search | 2 | 15% |
-| Hash Table | 2 | 15% |
-| Boyer–Moore String-Search Algorithm | 1 | 8% |
-| Brainteaser | 1 | 8% |
+| Math | 8 | 57% |
+| String | 5 | 36% |
+| Array | 3 | 21% |
+| Bit Manipulation | 3 | 21% |
+| Hash Table | 3 | 21% |
+| Recursion | 3 | 21% |
+| Two Pointers | 3 | 21% |
+| Binary Search | 2 | 14% |
+| Sorting | 2 | 14% |
+| Boyer–Moore String-Search Algorithm | 1 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 7 |
+| [Array](Topics/array/) | 8 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -53,7 +54,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 2 |
+| [Hash Table](Topics/hash-table/) | 3 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
@@ -67,9 +68,9 @@ Contains topicwise list of solved problems.
 | [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 3 |
-| [Sorting](Topics/sorting/) | 3 |
+| [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 5 |
+| [String](Topics/string/) | 6 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
