@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T05:17:11.654Z",
+  "updatedAt": "2026-10-01T04:48:50.754Z",
   "problems": [
     {
       "frontendId": "14",
@@ -23,6 +23,26 @@
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.java",
           "sha": "b0272b7f66d46536bbac2d32599f728f1bf58d2b",
           "lastSyncedAt": "2026-09-24T05:17:11.654Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0049-group-anagrams.java",
+          "path": "0049-group-anagrams/0049-group-anagrams.java",
+          "sha": "6485cb0a51493111d79fd0b5181b7fa217968e90",
+          "lastSyncedAt": "2026-10-01T04:48:50.754Z"
         }
       ]
     },
