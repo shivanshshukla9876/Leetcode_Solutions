@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-01T05:03:43.631Z",
+  "updatedAt": "2026-10-01T05:42:44.032Z",
   "problems": [
     {
       "frontendId": "7",
@@ -43,6 +43,26 @@
           "path": "0069-sqrtx/0069-sqrtx.java",
           "sha": "51cadbaf80bc6cd4b464db1c9ce4a79d0727ca2f",
           "lastSyncedAt": "2026-09-17T04:40:18.892Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "172",
+      "title": "Factorial Trailing Zeroes",
+      "slug": "factorial-trailing-zeroes",
+      "problemName": "0172-factorial-trailing-zeroes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+      "folderPath": "0172-factorial-trailing-zeroes/",
+      "readmePath": "0172-factorial-trailing-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0172-factorial-trailing-zeroes.java",
+          "path": "0172-factorial-trailing-zeroes/0172-factorial-trailing-zeroes.java",
+          "sha": "0c5434838ad6ae652e6a8aece7b9cacda22b7865",
+          "lastSyncedAt": "2026-10-01T05:42:44.032Z"
         }
       ]
     },
