@@ -145,6 +145,7 @@ Contains topicwise list of solved problems.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0050-powx-n/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0509-fibonacci-number](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
@@ -154,6 +155,7 @@ Contains topicwise list of solved problems.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
