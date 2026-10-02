@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-02T03:45:02.775Z",
+  "updatedAt": "2026-10-02T04:07:45.992Z",
   "problems": [
     {
       "frontendId": "14",
@@ -43,6 +43,26 @@
           "path": "0020-valid-parentheses/0020-valid-parentheses.java",
           "sha": "af4bf9c1074ac376503fdf69d538db33d4c3e49d",
           "lastSyncedAt": "2026-10-01T05:47:03.733Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "problemName": "0022-generate-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+      "folderPath": "0022-generate-parentheses/",
+      "readmePath": "0022-generate-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0022-generate-parentheses.java",
+          "path": "0022-generate-parentheses/0022-generate-parentheses.java",
+          "sha": "2a5b8933630af546e4dac648a695fba2d02aa7e0",
+          "lastSyncedAt": "2026-10-02T04:07:45.992Z"
         }
       ]
     },
