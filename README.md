@@ -110,6 +110,7 @@ Contains topicwise list of solved problems.
 | [0014-longest-common-prefix](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -133,6 +134,7 @@ Contains topicwise list of solved problems.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
