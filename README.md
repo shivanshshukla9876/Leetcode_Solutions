@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 17 | 10 | 7 | 0 |
+| 18 | 10 | 8 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 1 days | 6 |
+| 2 days | 2 days | 7 |
 
 | Date | Problems |
 | --- | ---: |
@@ -21,20 +21,21 @@ Contains topicwise list of solved problems.
 | 2026-09-24 | 1 |
 | 2026-09-29 | 1 |
 | 2026-10-01 | 4 |
+| 2026-10-02 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 11 | 65% |
-| Recursion | 5 | 29% |
-| String | 5 | 29% |
-| Array | 3 | 18% |
-| Bit Manipulation | 3 | 18% |
-| Hash Table | 3 | 18% |
-| Two Pointers | 3 | 18% |
-| Binary Search | 2 | 12% |
-| Sorting | 2 | 12% |
+| Math | 11 | 61% |
+| String | 6 | 33% |
+| Recursion | 5 | 28% |
+| Two Pointers | 4 | 22% |
+| Array | 3 | 17% |
+| Bit Manipulation | 3 | 17% |
+| Hash Table | 3 | 17% |
+| Binary Search | 2 | 11% |
+| Sorting | 2 | 11% |
 | Boyer–Moore String-Search Algorithm | 1 | 6% |
 
 ## Topics
@@ -72,10 +73,10 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 5 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 7 |
+| [String](Topics/string/) | 8 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 4 |
+| [Two Pointers](Topics/two-pointers/) | 5 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
