@@ -151,12 +151,14 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0509-fibonacci-number](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0070-climbing-stairs](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -166,6 +168,7 @@ Contains topicwise list of solved problems.
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
