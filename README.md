@@ -110,6 +110,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -145,6 +146,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +156,7 @@ Contains topicwise list of solved problems.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0509-fibonacci-number](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -164,4 +167,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
