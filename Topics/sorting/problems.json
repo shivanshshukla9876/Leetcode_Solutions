@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "sorting",
-    "name": "Sorting"
+    "name": "Sorting",
+    "tagId": "61049"
   },
-  "updatedAt": "2026-10-01T04:48:50.754Z",
+  "updatedAt": "2026-10-10T06:03:28.431Z",
   "problems": [
+    {
+      "frontendId": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "problemName": "0015-3sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+      "folderPath": "0015-3sum/",
+      "readmePath": "0015-3sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0015-3sum.java",
+          "path": "0015-3sum/0015-3sum.java",
+          "sha": "ec08afcf8af60f6f80601b7a3c1886783e961887",
+          "lastSyncedAt": "2026-10-10T06:03:28.431Z"
+        }
+      ]
+    },
     {
       "frontendId": "49",
       "title": "Group Anagrams",
