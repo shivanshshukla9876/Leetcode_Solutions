@@ -86,6 +86,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Binary Search
@@ -131,11 +132,13 @@ Contains topicwise list of solved problems.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
 ## Stack
