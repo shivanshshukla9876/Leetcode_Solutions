@@ -144,6 +144,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0015-3sum](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
@@ -188,6 +189,7 @@ Contains topicwise list of solved problems.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
