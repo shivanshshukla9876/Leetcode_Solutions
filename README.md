@@ -106,6 +106,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## String
@@ -143,6 +144,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0015-3sum](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0141-linked-list-cycle](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
 ## Stack
@@ -185,5 +187,10 @@ Contains topicwise list of solved problems.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/shivanshshukla9876/Leetcode_Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
